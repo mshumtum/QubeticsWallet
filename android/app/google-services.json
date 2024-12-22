@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72936093375",
+    "project_id": "kissanwallet",
+    "storage_bucket": "kissanwallet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72936093375:android:9cba3bde3ea5a2c3a6780a",
+        "android_client_info": {
+          "package_name": "com.kissanwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72936093375-jadi6sjcds9vomgfoono769sf0pcvqel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMYpEsP9OKztV7xrgrWXp-0MJyIXtSlrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72936093375-jadi6sjcds9vomgfoono769sf0pcvqel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
